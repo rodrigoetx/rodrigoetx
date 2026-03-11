@@ -11,7 +11,7 @@ Minha grande paixão fora da tecnologia é o teatro. Sou aluno/ator na **Cena IV
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** (UNIFEOB).
 - 📚 Atualmente cursando **Técnico em Administração** (IFSP).
 - 🎭 Aluno/ator apaixonado na **Cena IV Shakespeare Cia.**, vivendo o teatro como estudante e melhorando a minha comunicação a cada dia.
-- 💡 Estudante curioso de **Inteligência Artificial** (com certificação pelo AI LAB I da PUC-Rio).
+- 🤖 **AI-Augmented Developer:** Utilizo IA e AI Pair Programming não para "terceirizar" lógica estrutural, mas como uma poderosa extensão do raciocínio. Foco na **Arquitetura de Software e Engenharia de Prompt**, acelerando a digitação de scripts comuns para entregar o que realmente importa: a regra de negócio executada rápida e perfeitamente. (Certificado AI LAB I - PUC-Rio).
 
 ### 🛠️ Projetos Recentes
 
