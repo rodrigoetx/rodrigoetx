@@ -1,6 +1,6 @@
 ### Oi, eu sou o Rodrigo Espinosa Teixeira! 👋
 
-Sou recém-formado em **Análise e Desenvolvimento de Sistemas** (UNIFEOB) e atualmente estou cursando **Técnico em Administração** no IFSP. Gosto de explorar as intersecções entre código, processos administrativos e como fazer a tecnologia trabalhar ao nosso favor no dia a dia.
+Sou formado em **Análise e Desenvolvimento de Sistemas** (UNIFEOB) e atualmente estou cursando **Técnico em Administração** no IFSP. Gosto de explorar as intersecções entre código, processos administrativos e como fazer a tecnologia trabalhar ao nosso favor no dia a dia.
 
 Minha grande paixão fora da tecnologia é o teatro. Sou aluno/ator na **Cena IV Shakespeare Cia.**, onde busco desenvolver não só a técnica artística, mas habilidades fundamentais como comunicação clara, oratória, trabalho em equipe e empatia. Ainda estou nessa jornada de aprendizado teatral, mas acredito fortemente que a tecnologia e a comunicação humana caminham juntas.
 
