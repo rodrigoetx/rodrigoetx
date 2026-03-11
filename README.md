@@ -15,8 +15,8 @@ Minha grande paixão fora da tecnologia é o teatro. Sou aluno/ator na **Cena IV
 
 ### 🛠️ Projetos Recentes
 
-- **Nexus V2 Comando (Cacau Show Edition)**: Um sistema robusto feito em Python/Streamlit voltado para administração, onde aplico conceitos de automação (leitura de planilhas, gerador de PDF, auditoria de arquivos).
-- **Projeto Moodly**: Um projeto em time para desenvolver um app integrado com inteligência artificial, onde pude colaborar com a organização das atividades e testes.
+- **Nexus V2 Comando**: Um sistema robusto feito em Python/Streamlit voltado para administração, onde aplico conceitos de automação (leitura de planilhas, gerador de PDF, auditoria de arquivos).
+- **[Projeto Moodly](https://github.com/Moodly-project/moodly-project)**: Um projeto em time para desenvolver um app integrado com inteligência artificial, onde pude colaborar com a organização das atividades e testes.
 
 ---
 
