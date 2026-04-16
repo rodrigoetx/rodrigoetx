@@ -3,7 +3,7 @@
 
   <h1>Hi, I'm Rodrigo Espinosa Teixeira 👋</h1>
 
-  <h3>AI-Augmented Engineer & Creative Front-End Developer</h3>
+  <h3>AI-Augmented Engineer & Creative Developer</h3>
 
 </div>
 
