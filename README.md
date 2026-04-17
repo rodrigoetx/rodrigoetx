@@ -11,10 +11,11 @@
 
 ### 🧠 About Me
 
-- 🚀 Creating **Premium Web Experiences (Next.js/React)** and **Intelligent Automations (Python/LLMs)**
+- 🔭 Building and learning **Web Projects (Next.js/React)** and **AI Automations (Python/LLMs)** — always exploring new things
 - 🎓 Graduated in **Systems Analysis and Development** (UNIFEOB) & Studying **Business Administration** (IFSP)
 - 🎭 Student/Actor at **Cena IV Shakespeare Cia.**, pursuing clear communication, public speaking, and empathy
 - 🌎 Based in Brazil
+- 💼 Currently looking for **remote opportunities**
 
 <br>
 
@@ -46,16 +47,22 @@
 
 ---
 
-### ✨ Featured Premium Projects
+### ✨ Featured Projects
 
 | Project | Description |
 | :--- | :--- |
-| **[🏎️ Apex Motors](https://github.com/rodrigoetx/apex-motors)** | A cinematic, Awwwards-inspired landing page for luxury vehicles. Features smooth scrolling, magnetic cursors, and fluid 3D-like transitions. Built with Next.js & Framer Motion. |
-| **[☕ Aurora Coffee](https://github.com/rodrigoetx/aurora-coffee)** | A high-conversion boutique coffee e-commerce UI. Features 'Roast Switcher' dark mode dynamics and premium scroll animations. Built with Next.js & Tailwind. |
+| **[🏎️ Apex Motors](https://github.com/rodrigoetx/apex-motors)** | A landing page for luxury vehicles with smooth scrolling and animations. Built with Next.js & Framer Motion for learning purposes. |
+| **[☕ Aurora Coffee](https://github.com/rodrigoetx/aurora-coffee)** | An e-commerce UI for boutique coffee with dark mode and scroll animations. Built with Next.js & Tailwind to learn modern web patterns. |
 
 ---
 
-### 🧪 Recent AI & Automation Experiments
+### 🔍 Open to Opportunities
+
+I'm currently available for remote work. Feel free to reach out if you're looking for someone passionate about learning and building with AI and modern web technologies!
+
+<br>
+
+### 🧪 Recent Learning Projects
 
 - 👔 **Nexus V2 Command Center**: A robust system built in Python/Streamlit geared towards administration, applying automation concepts (spreadsheet parsing, PDF generators, file auditing).
 - 🤖 **ret-ai-agent**: An exploration into autonomous agents (currently paused, but planning to continue). 
